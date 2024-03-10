@@ -1,4 +1,4 @@
-public class SumOfThreeNumbers {
+public class areaaa {
     public static void main(String[] args) {
         // Define the three numbers
         double num1 = 10.5;
